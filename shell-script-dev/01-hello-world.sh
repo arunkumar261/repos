@@ -1,2 +1,3 @@
-hi this is shell script
-i have update the some change 
+#bin/bash
+
+echo "Hello World"
